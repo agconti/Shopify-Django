@@ -1,0 +1,22 @@
+Metadata-Version: 1.1
+Name: ShopifyAPI
+Version: 1.0.7
+Summary: Shopify API for Python
+Home-page: https://github.com/Shopify/shopify_python_api
+Author: Shopify
+Author-email: developers@jadedpixel.com
+License: MIT License
+Description: The ShopifyAPI library allows python developers to programmatically
+        access the admin section of stores using an ActiveResource like
+        interface similar the ruby Shopify API gem. The library makes HTTP
+        requests to Shopify in order to list, create, update, or delete
+        resources (e.g. Order, Product, Collection).
+Platform: Any
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
